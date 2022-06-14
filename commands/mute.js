@@ -1,4 +1,4 @@
-// Moderacja
+// Moderation
 
 // .mute @user X s/m/h/d
 // .then(m => m.delete(3000))
