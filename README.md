@@ -1,1 +1,1 @@
-# guardbot
+# Guard Discord Bot
