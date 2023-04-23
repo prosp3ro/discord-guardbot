@@ -1,1 +1,0 @@
-# Guard Discord Bot
